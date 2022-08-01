@@ -1,0 +1,40 @@
+
+
+.main {
+    margin-top: 100px;
+}
+
+.logo-img {
+    display: block;
+    width: 300px;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.input {
+    display: block;
+    width: 500px;
+    margin: 0px auto;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    line-height: 24px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 30px;
+    background: #dfe1e5;
+    font-size: 14px;
+    border: none;
+    margin: 10px;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
